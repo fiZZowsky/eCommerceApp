@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\pioter\\desktop\\ecommerceapp\\ecommerceapp.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\pioter\\desktop\\ecommerceapp\\ecommerceapp.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\pioter\\desktop\\ecommerceapp\\ecommerceapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\pioter\\desktop\\ecommerceapp\\ecommerceapp.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0D1EB860-2FBF-4E15-8A34-991EF996F8DA}|eCommerceApp.Services.CouponAPI\\eCommerceApp.Services.CouponAPI.csproj|c:\\users\\pioter\\desktop\\ecommerceapp\\ecommerceapp.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1EB860-2FBF-4E15-8A34-991EF996F8DA}|eCommerceApp.Services.CouponAPI\\eCommerceApp.Services.CouponAPI.csproj|solutionrelative:ecommerceapp.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\pioter\\desktop\\ecommerceapp\\ecommerceapp.web\\views\\coupon\\coupondelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\views\\coupon\\coupondelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\pioter\\desktop\\ecommerceapp\\ecommerceapp.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\pioter\\desktop\\ecommerceapp\\ecommerceapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\pioter\\desktop\\ecommerceapp\\ecommerceapp.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,28 +58,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CouponIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "ToolTip": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "RelativeToolTip": "eCommerceApp.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-03T14:39:36.834Z",
+              "DocumentIndex": 2,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "eCommerceApp.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwHAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:51:25.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CouponCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "ToolTip": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "RelativeToolTip": "eCommerceApp.Web\\Views\\Coupon\\CouponCreate.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "DocumentIndex": 3,
+              "Title": "CouponDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Views\\Coupon\\CouponDelete.cshtml",
+              "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Coupon\\CouponDelete.cshtml",
+              "ToolTip": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Views\\Coupon\\CouponDelete.cshtml",
+              "RelativeToolTip": "eCommerceApp.Web\\Views\\Coupon\\CouponDelete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-03T13:17:49.232Z",
+              "WhenOpened": "2024-03-05T11:10:33.458Z",
               "EditorCaption": ""
             },
             {
@@ -90,14 +90,14 @@
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Controllers\\CouponController.cs",
               "ToolTip": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Controllers\\CouponController.cs",
               "RelativeToolTip": "eCommerceApp.Web\\Controllers\\CouponController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAANAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwEMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T12:23:49.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
@@ -105,8 +105,7 @@
               "RelativeToolTip": "eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAB6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-02T18:21:35.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T18:21:35.148Z"
             },
             {
               "$type": "Document",
@@ -122,13 +121,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CouponService.cs",
               "DocumentMoniker": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Service\\CouponService.cs",
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Service\\CouponService.cs",
               "ToolTip": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Service\\CouponService.cs",
               "RelativeToolTip": "eCommerceApp.Web\\Service\\CouponService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwEEAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T17:18:53.291Z",
               "EditorCaption": ""
@@ -159,13 +158,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Service\\BaseService.cs",
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Service\\BaseService.cs",
               "ToolTip": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\Service\\BaseService.cs",
               "RelativeToolTip": "eCommerceApp.Web\\Service\\BaseService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAkAAAAcAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T20:16:30.144Z",
               "EditorCaption": ""

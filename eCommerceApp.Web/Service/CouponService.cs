@@ -51,16 +51,16 @@ namespace eCommerceApp.Web.Service
             });
         }
 
-        public async Task<ResponseDto?> GetCouponByIdAsync(int id)
-        {
-            return await _baseService.SendAsync(new RequestDto()
-            {
-                ApiType = SD.ApiType.GET,
-                Url = SD.CouponAPIBase + "/api/coupon/" + id
-            });
-        }
+		public async Task<ResponseDto?> GetCouponByIdAsync(int id)
+		{
+			return await _baseService.SendAsync(new RequestDto()
+			{
+				ApiType = SD.ApiType.GET,
+				Url = SD.CouponAPIBase + "/api/coupon/" + id
+			});
+		}
 
-        public async Task<ResponseDto?> UpdateCouponAsync(CouponDto couponDto)
+		public async Task<ResponseDto?> UpdateCouponAsync(CouponDto couponDto)
         {
             return await _baseService.SendAsync(new RequestDto()
             {
