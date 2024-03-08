@@ -2,7 +2,7 @@
   {
     "ContainingType": "eCommerceApp.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "Get",
-    "RelativePath": "api/coupon",
+    "RelativePath": "api/cou2pon",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +22,7 @@
   {
     "ContainingType": "eCommerceApp.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "Post",
-    "RelativePath": "api/coupon",
+    "RelativePath": "api/cou2pon",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -48,7 +48,7 @@
   {
     "ContainingType": "eCommerceApp.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "Put",
-    "RelativePath": "api/coupon",
+    "RelativePath": "api/cou2pon",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -73,41 +73,15 @@
   },
   {
     "ContainingType": "eCommerceApp.Services.CouponAPI.Controllers.CouponAPIController",
-    "Method": "Delete",
-    "RelativePath": "api/coupon",
-    "HttpMethod": "DELETE",
+    "Method": "Get",
+    "RelativePath": "api/cou2pon/{id}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "eCommerceApp.Services.CouponAPI.Models.Dto.ResponseDto",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "eCommerceApp.Services.CouponAPI.Controllers.CouponAPIController",
-    "Method": "GetByCode",
-    "RelativePath": "api/coupon/GetByCode/{code}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "code",
-        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -125,16 +99,42 @@
   },
   {
     "ContainingType": "eCommerceApp.Services.CouponAPI.Controllers.CouponAPIController",
-    "Method": "Get",
-    "RelativePath": "api/coupon/id:int",
-    "HttpMethod": "GET",
+    "Method": "Delete",
+    "RelativePath": "api/cou2pon/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eCommerceApp.Services.CouponAPI.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eCommerceApp.Services.CouponAPI.Controllers.CouponAPIController",
+    "Method": "GetByCode",
+    "RelativePath": "api/cou2pon/GetByCode/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
