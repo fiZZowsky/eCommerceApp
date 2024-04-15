@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eCommerceApp.Services.AuthAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d439fce445c3d3f12bc31aa05cf16dc8d58831d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67ac32ec8674753a4e5ac1d96d693a8cb6335a0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("eCommerceApp.Services.AuthAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eCommerceApp.Services.AuthAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
