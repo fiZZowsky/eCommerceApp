@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eCommerceApp.Services.Coupo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eCommerceApp.Web", "eCommerceApp.Web\eCommerceApp.Web.csproj", "{59AAA4BE-6D82-4EC9-839D-15D8F325258B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceApp.Services.AuthAPI", "eCommerceApp.Services.AuthAPI\eCommerceApp.Services.AuthAPI.csproj", "{BBF27C78-9949-4A36-9324-10910CE637C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eCommerceApp.Services.AuthAPI", "eCommerceApp.Services.AuthAPI\eCommerceApp.Services.AuthAPI.csproj", "{BBF27C78-9949-4A36-9324-10910CE637C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

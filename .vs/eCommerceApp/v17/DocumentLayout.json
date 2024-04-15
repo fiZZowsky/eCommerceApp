@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Piotrek\\Desktop\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF27C78-9949-4A36-9324-10910CE637C7}|eCommerceApp.Services.AuthAPI\\eCommerceApp.Services.AuthAPI.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF27C78-9949-4A36-9324-10910CE637C7}|eCommerceApp.Services.AuthAPI\\eCommerceApp.Services.AuthAPI.csproj|solutionrelative:ecommerceapp.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF27C78-9949-4A36-9324-10910CE637C7}|eCommerceApp.Services.AuthAPI\\eCommerceApp.Services.AuthAPI.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF27C78-9949-4A36-9324-10910CE637C7}|eCommerceApp.Services.AuthAPI\\eCommerceApp.Services.AuthAPI.csproj|solutionrelative:ecommerceapp.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF27C78-9949-4A36-9324-10910CE637C7}|eCommerceApp.Services.AuthAPI\\eCommerceApp.Services.AuthAPI.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF27C78-9949-4A36-9324-10910CE637C7}|eCommerceApp.Services.AuthAPI\\eCommerceApp.Services.AuthAPI.csproj|solutionrelative:ecommerceapp.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF27C78-9949-4A36-9324-10910CE637C7}|eCommerceApp.Services.AuthAPI\\eCommerceApp.Services.AuthAPI.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF27C78-9949-4A36-9324-10910CE637C7}|eCommerceApp.Services.AuthAPI\\eCommerceApp.Services.AuthAPI.csproj|solutionrelative:ecommerceapp.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Services.AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Services.AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Services.AuthAPI\\Program.cs",
+              "RelativeToolTip": "eCommerceApp.Services.AuthAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:15:39.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "eCommerceApp.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:45:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Services.AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "eCommerceApp.Services.AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:58:35.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "eCommerceApp.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:55:19.249Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -55,23 +55,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pioter\\.nuget\\packages\\": {},
+    "C:\\Users\\Piotrek\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\eCommerceApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\eCommerceApp.Web.csproj",
       "projectName": "eCommerceApp.Web",
-      "projectPath": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\eCommerceApp.Web.csproj",
-      "packagesPath": "C:\\Users\\Pioter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pioter\\Desktop\\eCommerceApp\\eCommerceApp.Web\\obj\\",
+      "projectPath": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\eCommerceApp.Web.csproj",
+      "packagesPath": "C:\\Users\\Piotrek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pioter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Piotrek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -128,7 +128,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
