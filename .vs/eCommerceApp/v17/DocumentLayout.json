@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Utility\\SD.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Web\\Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Utility\\SD.cs",
+              "RelativeToolTip": "eCommerceApp.Web\\Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:32:40.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,14 +57,14 @@
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Auth\\Register.cshtml",
               "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Views\\Auth\\Register.cshtml",
               "RelativeToolTip": "eCommerceApp.Web\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-17T10:27:04.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Auth\\Login.cshtml",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "eCommerceApp.Web\\Views\\Auth\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T09:07:29.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T09:07:29.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
@@ -68,8 +84,7 @@
               "RelativeToolTip": "eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T08:47:05.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T08:47:05.3Z"
             },
             {
               "$type": "Document",
@@ -79,7 +94,7 @@
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Controllers\\AuthController.cs",
               "RelativeToolTip": "eCommerceApp.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T08:43:44.049Z",
               "EditorCaption": ""
