@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Piotrek\\Desktop\\Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\service\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|c:\\users\\piotrek\\desktop\\projects\\ecommerceapp.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AAA4BE-6D82-4EC9-839D-15D8F325258B}|eCommerceApp.Web\\eCommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,100 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Program.cs",
-              "RelativeDocumentMoniker": "eCommerceApp.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Program.cs",
-              "RelativeToolTip": "eCommerceApp.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:33:36.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TokenProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Service\\TokenProvider.cs",
-              "RelativeDocumentMoniker": "eCommerceApp.Web\\Service\\TokenProvider.cs",
-              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Service\\TokenProvider.cs",
-              "RelativeToolTip": "eCommerceApp.Web\\Service\\TokenProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:24:36.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ITokenProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Service\\IService\\ITokenProvider.cs",
-              "RelativeDocumentMoniker": "eCommerceApp.Web\\Service\\IService\\ITokenProvider.cs",
-              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Service\\IService\\ITokenProvider.cs",
-              "RelativeToolTip": "eCommerceApp.Web\\Service\\IService\\ITokenProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:23:43.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Utility\\SD.cs",
-              "RelativeDocumentMoniker": "eCommerceApp.Web\\Utility\\SD.cs",
-              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Utility\\SD.cs",
-              "RelativeToolTip": "eCommerceApp.Web\\Utility\\SD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T10:32:40.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Views\\Auth\\Register.cshtml",
-              "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Views\\Auth\\Register.cshtml",
-              "RelativeToolTip": "eCommerceApp.Web\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T10:27:04.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "eCommerceApp.Web\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T09:07:29.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "eCommerceApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAxAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADQAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T08:47:05.3Z"
+              "WhenOpened": "2024-04-28T11:57:26.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "eCommerceApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:56:19.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "eCommerceApp.Web\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Piotrek\\Desktop\\Projects\\eCommerceApp.Web\\Controllers\\AuthController.cs",
               "RelativeToolTip": "eCommerceApp.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAIwGMAAAA1AAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwG0AAACXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:43:44.049Z",
+              "WhenOpened": "2024-04-28T11:54:28.635Z",
               "EditorCaption": ""
             }
           ]

@@ -4,6 +4,6 @@ namespace eCommerceApp.Services.AuthAPI.Service.IService
 {
     public interface IJwtTokenGenerator
     {
-        public string GenerateJwtToken(ApplicationUser applicationUser);
+        public string GenerateJwtToken(ApplicationUser applicationUser, IEnumerable<string> roles);
     }
 }
