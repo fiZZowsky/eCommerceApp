@@ -1,7 +1,7 @@
 using AutoMapper;
-using eCommerceApp.Services.CouponAPI;
-using eCommerceApp.Services.CouponAPI.Data;
-using eCommerceApp.Services.CouponAPI.Extensions;
+using eCommerceApp.Services.ProductAPI;
+using eCommerceApp.Services.ProductAPI.Data;
+using eCommerceApp.Services.ProductAPI.Extensions;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
