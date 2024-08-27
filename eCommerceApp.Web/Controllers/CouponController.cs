@@ -1,15 +1,11 @@
 ﻿using eCommerceApp.Web.Models;
 using eCommerceApp.Web.Models.Dto;
 using eCommerceApp.Web.Service.IService;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
 namespace eCommerceApp.Web.Controllers
 {
-    [Route("api/coupon")]
-    [ApiController]
-    [Authorize]
     public class CouponController : Controller
     {
         private readonly ICouponService _couponService;
